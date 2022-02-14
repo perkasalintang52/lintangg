@@ -1,9 +1,9 @@
 {
-"Lolkey": "GhosBid2007",
+"Lolkey": "api lol",
 "Vhtear": "YOUR APIKEY",
-"Xteam": "4ea2f5b23aef889d",
-"Zeks": "LeonGanteng",
+"Xteam": "xteam.xyz",
+"Zeks": "zeks.me",
 "Nurutomo": "YOUR APIKEY",
-"Zero": "LeonGanz",
+"Zero": "zero",
 "Hunter": "FuckBitch"
 }
